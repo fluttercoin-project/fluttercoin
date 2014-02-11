@@ -7,21 +7,23 @@ Copyright (c) 2009-2013 Bitcoin Developers
 
 Copyright (c) 2011-2013 Litecoin Developers
 
-Copyright (c) 2014 Vertcoin Developers
+Copyright (c) 2014 Fluttercoin Developers
+
+[Click here for the latest windows binary](https://github.com/fluttercoin-project/fluttercoin/blob/master-0.8/fluttercoin-windows-RELEASE.zip)
 
 
 What is Fluttercoin?
 ----------------
 
 Fluttercoin is a lite version of Bitcoin using scrypt-adaptive-N as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - 2 minute block targets
+ - subsidy halves in 300k blocks (~4 years)
+ - 100 million total coins
  - 50 coins per block
  - Every block to retarget difficulty with Kimotos Gravity Well algorithm
 
 For more information, as well as an immediately useable, binary version of
-the Vertcoin client sofware, see http://www.fluttercoin.org.
+the Fluttercoin client sofware, see http://www.fluttercoin.org.
 
 License
 -------
